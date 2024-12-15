@@ -62,4 +62,27 @@ You can click the Preview link to take a look at your changes.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-
+<!---
+```json
+{
+   "title": "Info",
+   "version": "0.6.9",
+   "description": "Memento mori.",
+   "author": "Hynryx",
+   "languages": {
+      "programming": ["C", "C++", "Java", "JavaScript", "Python"],
+      "markup": ["HTML", "CSS"],
+      "real": ["English", "Tagalog"]
+   },
+   "interests:": ["Computer", "Smartphone", "Tinkering", "Coding", "IoT"],
+   "currentProjects": [
+      {
+         "name": "ESP Marauder - Modded version",
+         "techStack": ["C", "C++", "JavaScript"],
+         "status": "Inactive"
+      }
+   ],
+   "goal": "To live."
+}
+```
+--->
