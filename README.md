@@ -54,7 +54,7 @@
 hynryx/hynryx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+### Hʏɴʀʏx
 ```
 ⠀⠀⠀⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢀⣿⣿⣿⣿⣿⣿⣆⡀⠀⠀⠀⠀⣠⣴⣦⡄⢤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
   "author": "Hynryx",
   "languages": {
     "programming": ["C", "C++", "Java", "JavaScript", "PHP"],
-    "markup": ["HTML", "CSS"],
+    "markup": ["HTML5", "CSS3"],
     "real": ["English", "Gibberish"]
   },
   "interests": ["Computer", "Smartphone", "IoT"],
