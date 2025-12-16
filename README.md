@@ -87,7 +87,7 @@ You can click the Preview link to take a look at your changes.
   "languages": {
     "programming": ["C", "C++", "Java", "JavaScript", "PHP"],
     "markup": ["HTML", "CSS"],
-    "real": ["English", ]
+    "real": ["English", "Gibberish"]
   },
   "interests": ["Computer", "Smartphone", "IoT"],
   "currentProjects": [
