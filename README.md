@@ -112,8 +112,6 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/badge/Python-0175C2?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 ---
-
 <img align="left" alt="Hynryx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
-
 
 <img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
