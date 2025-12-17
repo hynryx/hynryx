@@ -54,7 +54,7 @@
 hynryx/hynryx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hʏɴʀʏx
+### Hʏɴʀʏx :space_invader:
 ```
 ⠀⠀⠀⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢀⣿⣿⣿⣿⣿⣿⣆⡀⠀⠀⠀⠀⣠⣴⣦⡄⢤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -120,3 +120,5 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Hynryx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
 
 <img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
+
+![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image")
