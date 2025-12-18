@@ -120,7 +120,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hynryx&theme=dark&short_numbers=true&background=000000" alt="GitHub Streak" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grepfox&theme=radical" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hynryx&theme=radical" alt="GitHub Streak" height="170" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="Hynryx's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="Languages" />
