@@ -118,11 +118,11 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-<img  alt="Hynryx's Github Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="Hynryx's Github Stats" height="170" />
 
-<img alt="Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="Languages" height="170" />
 
-<img alt="GitHub Streak" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hynryx&theme=transparent"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hynryx&theme=transparent" alt="GitHub Streak" height="170" />
 </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image")
