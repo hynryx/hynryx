@@ -119,9 +119,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="Hynryx's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=hynryx&theme=transparent" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hynryx&hide_border=true&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" alt="Languages" />
-</p>
+  </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image")
