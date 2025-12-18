@@ -120,7 +120,7 @@ You can click the Preview link to take a look at your changes.
 <p align="justify">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hynryx&theme=dark&background=000000" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&theme=highcontrast&background=000000" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&theme=dark&background=000000" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&theme=transparent&background=000000" alt="Languages" />
   </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image")
