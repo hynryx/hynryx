@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Hʏɴʀʏx :space_invader:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Fight.+Fvck.+Dance.+Destroy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+new&size=17&pause=1000&color=FFFFFF&width=435&lines=%22%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E%F0%9D%9A%9B+%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%8C%F0%9D%9A%8E+%F0%9D%9A%92%F0%9D%9A%9C+%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%95.+%F0%9D%9A%88%F0%9D%9A%98%F0%9D%9A%9E+%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%8E+%F0%9D%9A%8D%F0%9D%9A%98%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%92%F0%9D%9A%95.%22%C2%A0" alt="Typing SVG" />
 </p>
 
 ---
