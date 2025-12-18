@@ -117,10 +117,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img align="center" alt="Hynryx's Github Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=radical" />
+<p align="center">
+<img  alt="Hynryx's Github Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
 
-<img align="center" alt="Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=radical" />
+<img alt="Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&hide_border=true&theme=transparent" />
 
-<img align="center" alt="GitHub Streak" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hynryx&theme=radical"  />
+<img alt="GitHub Streak" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hynryx&theme=transparent"  />
+</p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image")
