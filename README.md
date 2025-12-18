@@ -117,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<p align="center">
+<p align="justify">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hynryx&theme=dark&background=000000" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=hynryx&show_icons=true&layout=compact&theme=dark&background=000000" alt="Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&show_icons=true&layout=compact&theme=dark&background=000000" alt="Languages" />
