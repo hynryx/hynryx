@@ -109,7 +109,7 @@ You can click the Preview link to take a look at your changes.
 
 ```
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -127,4 +127,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynryx&layout=donut&theme=radical" alt="Top Langs" height="170"/>
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image") -->
+
+<details open>
+<summary><h2>⚡️ Git Stats</h2></summary>
+<div align="center" >
+<a  href="https://github.com/hynryx">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hynryx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hynryx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hynryx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hynryx&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hynryx&theme=aura_dark&utcOffset=8)
+</a>
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hynryx&label=Profile%20views&color=0e75b6&style=flat" alt="hynryx" /> </p>
+</details>
