@@ -166,8 +166,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
 <a href="https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF24-series" target="_blank"><img src="https://cdn.simpleicons.org/nordicsemiconductor/00A9CE" alt="NRF24" height="26" /></a>
 <a href="https://www.bluetooth.com/learn-about-bluetooth/" target="_blank"><img src="https://cdn.simpleicons.org/bluetooth/0082FC" alt="Bluetooth / BLE" height="26" /></a>
+<!-- 2.4 GHz Wi-Fi -->
 <a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
-  <img style="margin: 10px" src="https://img.shields.io/badge/WiFi-802.11-black?style=flat&logo=wifi" alt="Wi-Fi" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/WiFi-2.4GHz-black?style=flat&logo=wifi" alt="Wi-Fi 2.4GHz" height="25" />
+</a>
+
+<!-- 5 GHz Wi-Fi -->
+<a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
+  <img style="margin: 10px" src="https://img.shields.io/badge/WiFi-5GHz-black?style=flat&logo=wifi" alt="Wi-Fi 5GHz" height="25" />
 </a>
 
 ---
