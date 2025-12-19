@@ -201,7 +201,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 📡 RF / LORA / SECURITY -->
 <a href="https://lora-alliance.org/" target="_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/LoRa_Logo.svg" alt="LoRa" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/LoRa-RF-blueviolet?style=flat&logo=signal" alt="LoRa" height="25" />
 </a>
 
 <a href="https://www.kali.org/" target="_blank">
