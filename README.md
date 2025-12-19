@@ -170,11 +170,50 @@ You can click the Preview link to take a look at your changes.
 <a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
   <img style="margin: 10px" src="https://img.shields.io/badge/WiFi-2.4GHz-black?style=flat&logo=wifi" alt="Wi-Fi 2.4GHz" height="25" />
 </a>
-
 <!-- 5 GHz Wi-Fi -->
 <a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
   <img style="margin: 10px" src="https://img.shields.io/badge/WiFi-5GHz-black?style=flat&logo=wifi" alt="Wi-Fi 5GHz" height="25" />
 </a>
+
+<!-- 📡 RF / WIRELESS / OFF-GRID -->
+<div align="center">
+
+<!-- NRF24 -->
+<a href="https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF24-series" target="_blank">
+  <img src="https://cdn.simpleicons.org/nordicsemiconductor/00A9CE" alt="NRF24" height="26" style="margin: 10px;" />
+</a>
+
+<!-- BLE -->
+<a href="https://www.bluetooth.com/learn-about-bluetooth/" target="_blank">
+  <img src="https://cdn.simpleicons.org/bluetooth/0082FC" alt="Bluetooth / BLE" height="26" style="margin: 10px;" />
+</a>
+
+<!-- Wi-Fi 2.4 GHz -->
+<a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
+  <img src="https://img.shields.io/badge/WiFi-2.4GHz-black?style=flat&logo=wifi" alt="Wi-Fi 2.4GHz" height="26" style="margin: 10px;" />
+</a>
+
+<!-- Wi-Fi 5 GHz -->
+<a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
+  <img src="https://img.shields.io/badge/WiFi-5GHz-black?style=flat&logo=wifi" alt="Wi-Fi 5GHz" height="26" style="margin: 10px;" />
+</a>
+
+<!-- GPS -->
+<a href="https://www.gps.gov/" target="_blank">
+  <img src="https://cdn.simpleicons.org/gps/2C3E50" alt="GPS" height="26" style="margin: 10px;" />
+</a>
+
+<!-- LoRa -->
+<a href="https://lora-alliance.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/LoRa_Logo.svg" alt="LoRa" height="26" style="margin: 10px;" />
+</a>
+
+<!-- Meshtastic -->
+<a href="https://meshtastic.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/meshtastic/7B68EE" alt="Meshtastic" height="26" style="margin: 10px;" />
+</a>
+
+</div>
 
 ---
 
