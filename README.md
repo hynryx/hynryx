@@ -150,7 +150,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<!-- 🔧 LOW-LEVEL / CORE -->
 <a href="https://www.cprogramming.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />
 </a>
@@ -161,9 +160,6 @@ You can click the Preview link to take a look at your changes.
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />
 </a>
 
-<br/>
-
-<!-- 🌐 WEB -->
 <a href="https://www.javascript.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />
 </a>
@@ -174,9 +170,6 @@ You can click the Preview link to take a look at your changes.
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
 </a>
 
-<br/>
-
-<!-- 📱 MOBILE -->
 <a href="https://flutter.dev/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />
 </a>
@@ -184,9 +177,6 @@ You can click the Preview link to take a look at your changes.
   <img style="margin: 10px" src="https://cdn.simpleicons.org/android/3DDC84" alt="Android" height="25" />
 </a>
 
-<br/>
-
-<!-- 🔌 HARDWARE / EMBEDDED -->
 <a href="https://www.arduino.cc/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />
 </a>
@@ -197,9 +187,6 @@ You can click the Preview link to take a look at your changes.
   <img style="margin: 10px" src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32 / ESP8266" height="25" />
 </a>
 
-<br/>
-
-<!-- 📡 RF / LORA / SECURITY -->
 <a href="https://www.kali.org/" target="_blank">
   <img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" height="25" />
 </a>
@@ -213,43 +200,12 @@ You can click the Preview link to take a look at your changes.
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
 </a>
 
-<!-- 📡 RF / WIRELESS / SDR -->
-<div align="center">
-
 <a href="https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF24-series" target="_blank">
   <img src="https://cdn.simpleicons.org/nordicsemiconductor/00A9CE" alt="NRF24" height="26" />
 </a>
 <a href="https://www.bluetooth.com/learn-about-bluetooth/" target="_blank">
   <img src="https://cdn.simpleicons.org/bluetooth/0082FC" alt="Bluetooth / BLE" height="26" />
 </a>
-<a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
-  <img src="https://cdn.simpleicons.org/wifi/000000" alt="Wi-Fi" height="26" />
-</a>
-<a href="https://www.gps.gov/" target="_blank">
-  <img src="https://cdn.simpleicons.org/gps/2C3E50" alt="GPS" height="26" />
-</a>
-<a href="https://lora-alliance.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/LoRa_Logo.svg" alt="LoRa" height="26" />
-</a>
-
-<br/>
-
-<!-- 🧠 MESH / SDR / OFF-GRID -->
-<a href="https://meshtastic.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/meshtastic/7B68EE" alt="Meshtastic" height="26" />
-</a>
-<a href="https://www.rtl-sdr.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/rtl-sdr/000000" alt="RTL-SDR" height="26" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Software-defined_radio" target="_blank">
-  <img src="https://cdn.simpleicons.org/signal/555555" alt="SDR" height="26" />
-</a>
-<a href="https://en.wikipedia.org/wiki/Wardriving" target="_blank">
-  <img src="https://cdn.simpleicons.org/wireless/111111" alt="Wardriving" height="26" />
-</a>
-
-</div>
-
 
 ---
 
