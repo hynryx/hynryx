@@ -143,4 +143,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hynryx&label=Profile%20views&color=0e75b6&style=flat" alt="hynryx" /> </p>
+
+![Alt](https://repobeats.axiom.co/api/embed/3af6d426363f554a7b9ec6134e930748acaffc94.svg "Repobeats analytics image")
 </details>
