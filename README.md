@@ -159,6 +159,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" height="25" /></a>
 </div>  
 
 ---
