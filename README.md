@@ -167,7 +167,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF24-series" target="_blank"><img src="https://cdn.simpleicons.org/nordicsemiconductor/00A9CE" alt="NRF24" height="26" /></a>
 <a href="https://www.bluetooth.com/learn-about-bluetooth/" target="_blank"><img src="https://cdn.simpleicons.org/bluetooth/0082FC" alt="Bluetooth / BLE" height="26" /></a>
 <a href="https://en.wikipedia.org/wiki/Wi-Fi" target="_blank">
-  <img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WiFi_Logo.svg/64px-WiFi_Logo.svg.png" alt="Wi-Fi" height="25" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/WiFi-802.11-black?style=flat&logo=wifi" alt="Wi-Fi" height="25" />
 </a>
 
 ---
