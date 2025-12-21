@@ -139,10 +139,10 @@ You can click the Preview link to take a look at your changes.
 <a  href="https://github.com/hynryx">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hynryx&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hynryx&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hynryx&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hynryx&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hynryx&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hynryx&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hynryx&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hynryx&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hynryx&theme=radical&utcOffset=8)
 </a>
 </div>
 
