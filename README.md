@@ -137,7 +137,6 @@ You can click the Preview link to take a look at your changes.
 <summary><h2>⚡️ Git Stats</h2></summary>
 <div align="center" >
 <a  href="https://github.com/hynryx">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hynryx&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hynryx&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hynryx&theme=dark)
